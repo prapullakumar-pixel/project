@@ -1,0 +1,42 @@
+.main{
+      display: flex;
+      flex-direction: row;
+      width:100%;
+      padding: 0px;
+      margin: 0px;
+      border:2px solid black ;
+    }
+.part1{
+	background-color: grey;
+	margin-left:5px;
+}
+.img{
+	width: 5%;
+}
+.image{
+	text-align: left;
+	margin-left: 5px;
+}
+.icon h3{
+	color: blue;
+	text-align: center;
+	text-decoration: underline;
+}
+.part2{
+	width:82%;
+}
+.parta{
+	text-align:center;
+	background-color: grey; 
+}
+.partb h2{
+	text-align: center;
+	color: blue;
+	text-decoration: underline;
+
+
+}
+.article{
+	background-color: grey;
+}
+
