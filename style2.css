@@ -1,3 +1,4 @@
+
 .main{
       display: flex;
       flex-direction: row;
@@ -30,11 +31,14 @@
 	background-color: grey; 
 }
 .partb h2{
-	text-align: center;
+	text-align: left;
 	color: blue;
+}
+.partb{
+	background-color: white;
+}
+.file{
 	text-decoration: underline;
-
-
 }
 .article{
 	background-color: grey;

@@ -1,15 +1,11 @@
 .main{
       display: flex;
-      flex-direction: row;
       width:100%;
+      flex-direction: row;
       height: 100%;
       padding: 1%;
       margin: 1%;
       border:2px solid black ;
-    }
-    img{
-      width: 250px;
-      height: 200px;
     }
     .profile{
       text-align: center;
@@ -32,7 +28,6 @@
       background-color: grey;
       color: white;
     }
-
     table{
       margin:3px;
     }
